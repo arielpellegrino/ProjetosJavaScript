@@ -1,4 +1,1 @@
-# ControleGastosJS
-
-Projeto rodando:
-https://arielpellegrino.github.io/ControleGastosJS/
+Calma que jaja eu boto eles pra rodar
