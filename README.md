@@ -9,4 +9,4 @@ Cada pasta contem um pequeno projeto feito em Javascript puro com o intuito de f
 - Node JS
 
 ### Links úteis: 
-- Projetos rodando: 
+- N/A
